@@ -87,7 +87,7 @@ This is a sample, not a full anagram dictionary. A family may have rarer members
 }
 ```
 
-Sources. Word lists from Wiktionary through kaikki.org (CC BY-SA), with Kartmaan french-language-tools and hbenbel French-Dictionary (MIT) for French, SCOWL for English, Morph-it! (CC BY-SA 2.0) for Italian and doozan spanish_data (CC BY 4.0) for Spanish. Word frequencies from FrequencyWords by Hermit Dave, built on OpenSubtitles 2018 (CC BY-SA).
+Sources. Word lists from Wiktionary through kaikki.org (CC BY-SA), with hbenbel French-Dictionary and other open French word lists (MIT) for French, SCOWL for English, Morph-it! (CC BY-SA 2.0) for Italian and doozan spanish_data (CC BY 4.0) for Spanish. Word frequencies from FrequencyWords by Hermit Dave, built on OpenSubtitles 2018 (CC BY-SA).
 
 Companion datasets, **[Anagram Benchmark For LLMs | 5 Languages](https://huggingface.co/datasets/anagrammio/anagram-benchmark-llm)** and **[Anagram Statistics | 5 Languages](https://huggingface.co/datasets/anagrammio/anagram-statistics)**.
 
